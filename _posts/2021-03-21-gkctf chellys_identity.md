@@ -1,5 +1,7 @@
 ---
-## gkctf chellys_identity
+title: gkctf chellys_identity
+tags: reverse
+---
 A.这题真是迷啊，反编译出来的c++代码一片混乱，函数多了很多奇奇怪怪的参数，还是动调大法实在
 B.
 拿到一个exe文件，用exeinfope查看，32位无壳
